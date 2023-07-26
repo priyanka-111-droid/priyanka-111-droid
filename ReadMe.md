@@ -6,7 +6,7 @@ Lately I have been interested in learning about functional programming languages
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Flask**
 
 - 💬 Ask me about **NodeJS and Express**
 
