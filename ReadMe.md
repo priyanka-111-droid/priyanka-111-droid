@@ -1,14 +1,13 @@
 <h1 align="center">Welcome everyone👋, I'm Priyanka Govindarajan</h1>
-<h3 margin="20">I am a backend developer from India. I have experience building apps using NodeJS,Express and Flask. I
-have also created projects using Bootstrap and React. I have been automating tasks using Python and have built web crawlers.
-Lately I have been interested in learning about functional programming languages such as Scheme ,a variant of Lisp.
+<h3 margin="20">I am a software developer from India. I have experience building web apps using NodeJS,Express and Flask and Android applications. I
+have also created projects using Bootstrap and React. I have automated tasks using Python and have built web crawlers.
 </h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **C++**
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Android**
 
-- 💬 Ask me about **NodeJS and Express**
+- 💬 Ask me about **Kotlin and Java**
 
 
 <p align="left">
